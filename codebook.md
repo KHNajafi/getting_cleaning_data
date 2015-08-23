@@ -5,38 +5,38 @@
 The explication of summaries including units is seen below under Feature Selection
 
 SubjectID
-Activity
-TotalBodyAcceleration_mean-X 			= tBodyAcc
-TotalBodyAcceleration_mean-Y
-TotalBodyAcceleration_mean-Z
-TotalBodyAcceleration_std-X
-TotalBodyAcceleration_std-Y
-TotalBodyAcceleration_std-Z
-TotalGravityAcceleration_mean-X			= tGravityAcc
-TotalGravityAcceleration_mean-Y
-TotalGravityAcceleration_mean-Z
-TotalGravityAcceleration_std-X
-TotalGravityAcceleration_std-Y
-TotalGravityAcceleration_std-Z
-TotalAccelerationJerk_mean-X			= tBodyAccJerk
-TotalAccelerationJerk_mean-Y
-TotalAccelerationJerk_mean-Z
-TotalAccelerationJerk_std-X
-TotalAccelerationJerk_std-Y
-TotalAccelerationJerk_std-Z
-TotalBodyGyroscope_mean-X				= tBodyGyro
-TotalBodyGyroscope_mean-Y
-TotalBodyGyroscope_mean-Z
-TotalBodyGyroscope_std-X
-TotalBodyGyroscope_std-Y
-TotalBodyGyroscope_std-Z
-TotalBodyGyroscopeJerk_mean-X			= tBodyGyroJerk
-TotalBodyGyroscopeJerk_mean-Y
-TotalBodyGyroscopeJerk_mean-Z
-TotalBodyGyroscopeJerk_std-X
-TotalBodyGyroscopeJerk_std-Y
-TotalBodyGyroscopeJerk_std-Z
-TotalBodyAccelerationMagnitude_mean		= tBodyAccMag
+- Activity
+- TotalBodyAcceleration_mean-X 			= tBodyAcc
+- TotalBodyAcceleration_mean-Y
+- TotalBodyAcceleration_mean-Z
+- TotalBodyAcceleration_std-X
+- TotalBodyAcceleration_std-Y
+- TotalBodyAcceleration_std-Z
+- TotalGravityAcceleration_mean-X			= tGravityAcc
+- TotalGravityAcceleration_mean-Y
+- TotalGravityAcceleration_mean-Z
+- TotalGravityAcceleration_std-X
+- TotalGravityAcceleration_std-Y
+- TotalGravityAcceleration_std-Z
+- TotalAccelerationJerk_mean-X			= tBodyAccJerk
+- TotalAccelerationJerk_mean-Y
+- TotalAccelerationJerk_mean-Z
+- TotalAccelerationJerk_std-X
+- TotalAccelerationJerk_std-Y
+- TotalAccelerationJerk_std-Z
+- TotalBodyGyroscope_mean-X				= tBodyGyro
+- TotalBodyGyroscope_mean-Y
+- TotalBodyGyroscope_mean-Z
+- TotalBodyGyroscope_std-X
+- TotalBodyGyroscope_std-Y
+- TotalBodyGyroscope_std-Z
+- TotalBodyGyroscopeJerk_mean-X			= tBodyGyroJerk
+- TotalBodyGyroscopeJerk_mean-Y
+- TotalBodyGyroscopeJerk_mean-Z
+- TotalBodyGyroscopeJerk_std-X
+- TotalBodyGyroscopeJerk_std-Y
+- TotalBodyGyroscopeJerk_std-Z
+- TotalBodyAccelerationMagnitude_mean		= tBodyAccMag
 
 ##FEATURE SELECTION 
 =================
