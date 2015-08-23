@@ -4,7 +4,7 @@
 
 The explication of summaries including units is seen below under Feature Selection
 
-SubjectID
+- SubjectID
 - Activity
 - TotalBodyAcceleration_mean-X 			= tBodyAcc
 - TotalBodyAcceleration_mean-Y
