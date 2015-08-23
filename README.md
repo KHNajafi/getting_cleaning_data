@@ -11,11 +11,11 @@
 The repository contains an R-script that accomplishes several tasks, culminating in the 
 creation of a tidy subset containing the statistical mean and standard deviation for 
 each activity, for each subject.  The tasks are as follows:
-	1. Merges the training and test sets to create one data set
-	2. Extracts only the mean and standard deviation for each measurement
-	3. Uses descriptive activity names to name the activities in the data set
-	4. Appropriately labels the data set with descriptive variable names
-	5. From 4) creates a second tidy set with the average of each variable for each 
+1. Merges the training and test sets to create one data set
+2. Extracts only the mean and standard deviation for each measurement
+3. Uses descriptive activity names to name the activities in the data set
+4. Appropriately labels the data set with descriptive variable names
+5. From 4) creates a second tidy set with the average of each variable for each 
 	   activity and subject
 	   
 ##RUNNING THE SCRIPT:
