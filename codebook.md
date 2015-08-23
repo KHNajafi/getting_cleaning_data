@@ -1,5 +1,5 @@
-###CODEBOOK
-#Here is the codebook of modified variables for the tidy subset
+#CODEBOOK
+###Here is the codebook of modified variables for the tidy subset
 =================
 
 The explication of summaries including units is seen below under Feature Selection
