@@ -1,14 +1,13 @@
 ==================================================================
-###COURSE PROJECT (GETTING & CLEANING DATA; JOHNS HOPKINS UNIVERSITY)
+#COURSE PROJECT (GETTING & CLEANING DATA; JOHNS HOPKINS UNIVERSITY)
 ==================================================================
-#UCI Human Activity Recognition dataset available online:
-#http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+###UCI Human Activity Recognition dataset available online:
+###http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-#Khalil H Najafi
+###Khalil H Najafi
 ==================================================================
 
 ##OVERVIEW:
-==================================
 The repository contains an R-script that accomplishes several tasks, culminating in the 
 creation of a tidy subset containing the statistical mean and standard deviation for 
 each activity, for each subject.  The tasks are as follows:
@@ -20,12 +19,10 @@ each activity, for each subject.  The tasks are as follows:
 	   activity and subject
 	   
 ##RUNNING THE SCRIPT:
-==================================
 To run the script successfully, amend the working directory set on line 17 locally,
 ensuring the UCI HAR dataset is unzipped in the same directory.
 
 ##THE REPOSITORY INCLUDES THE FOLLOWING FILES:
-==================================
 - README
 - Codebook (explains the variables of the UCI HAR dataset, and modifications from the 
 script)
