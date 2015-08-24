@@ -2,7 +2,7 @@
 #COURSE PROJECT (GETTING & CLEANING DATA; JOHNS HOPKINS UNIVERSITY)
 ==================================================================
 ###UCI Human Activity Recognition dataset available online:
-###http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+#####http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ###Khalil H Najafi
 ==================================================================
